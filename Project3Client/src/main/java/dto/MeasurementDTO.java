@@ -3,7 +3,7 @@ package dto;
 public class MeasurementDTO {
     private Double value;
     private Boolean isRaining;
-    private SensorDTO sensor;
+    private SensorDTO sensor ;
 
     public Double getValue() {
         return value;

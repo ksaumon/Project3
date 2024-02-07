@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.Random;
 
 
-public class Client {
+public class Client{
     public static void main(String[] args) {
         final String sensorName = "Sensor123";
 

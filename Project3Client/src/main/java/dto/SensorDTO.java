@@ -3,7 +3,7 @@ package dto;
 public class SensorDTO {
     private String name;
 
-    public String getName() {
+    public String gZDVetName() {
         return name;
     }
 
