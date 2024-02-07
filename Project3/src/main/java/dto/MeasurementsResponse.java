@@ -1,14 +1,10 @@
-package com.semen.springcourse.project3.dto;
+package dto;
 
 import java.util.List;
 
 
 public class MeasurementsResponse {
-    private List<MeasurementDTO> measurements;
-
-    public MeasurementsResponse(List<MeasurementDTO> measurements) {
-        this.measurements = measurements;
-    }
+    List<MeasurementDTO> measurements;
 
     public List<MeasurementDTO> getMeasurements() {
         return measurements;
