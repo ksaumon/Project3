@@ -1,1 +1,2 @@
-file:///C:/Users/semen/Downloads/Project3_TZ.pdf
+Задание к проекту 3.
+https://swiftbook.org/system/uploads/lecture_material/material/874/Project3_TZ.pdf
